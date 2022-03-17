@@ -6,3 +6,8 @@ def greetings(name):
 if __name__ == "__main__":
     greetings("world")
     
+    greetings("new commit")
+
+    greetings("amended commit")
+
+    greetings("another amend")
