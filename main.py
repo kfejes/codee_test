@@ -5,4 +5,8 @@ def greetings(name):
 
 if __name__ == "__main__":
     greetings("world")
+
+    greetings("testing amends")
+
+    greetings("does the commit hash changed")
     
